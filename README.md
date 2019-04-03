@@ -1,2 +1,2 @@
 # gesturecontrol-light
-Using gestures anyone can control lights using arduino
+Using gestures one can control lights using arduino
